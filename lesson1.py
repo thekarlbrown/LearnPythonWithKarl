@@ -25,4 +25,4 @@ Everything is an object in python, including variables.
 Quotes are how the computer can tell if you are typing in code to be interpretted (typing in code) or just typing it text to be set to a value (setting a string, using text humans understand not code)
 
 HW#1
-customized hello world - Print a string that says "Although a teacher can be nice, we knows the internet is the best tool"
+customized hello world - Print a string that says "Although a teacher can be nice, we know the internet is the best tool"
