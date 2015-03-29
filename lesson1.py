@@ -9,6 +9,10 @@ http://notepad-plus-plus.org/ - Good way to view code in Windows
 http://repl.it/ - Way to view the code you write online (Python Interpreter)
 http://www.cheatography.com/davechild/cheat-sheets/python/ - Cheat Sheet (for experienced users)
 
+- Guide for Lesson 1 - 
+http://learnpython.org/en/Hello%2C_World%21 - Site with Guide
+- My additional write-up - 
+
 Variables in real life: someone says "hey , lets go to dinner at 5:00 pm"
 The computer must save the data somehow
 A variable is means of saving that data, just like the human brain remembers sentences, numbers, etc
@@ -21,4 +25,4 @@ Everything is an object in python, including variables.
 Quotes are how the computer can tell if you are typing in code to be interpretted (typing in code) or just typing it text to be set to a value (setting a string, using text humans understand not code)
 
 HW#1
-customized hello world - Type a string that says "Although a teacher can be nice, Hunter knows the internet is the best tool"
+customized hello world - Print a string that says "Although a teacher can be nice, we knows the internet is the best tool"
